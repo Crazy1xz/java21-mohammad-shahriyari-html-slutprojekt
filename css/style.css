@@ -113,10 +113,7 @@ html, body {
    margin:auto;
    text-align:center;
  }
- .row, .container-fluid {
- margin-left: 0px!important;
- margin-right: 0px!important;
- }
+
  .video-wrap {
    clip: rect(0, auto, auto, 0);
    position: absolute;
