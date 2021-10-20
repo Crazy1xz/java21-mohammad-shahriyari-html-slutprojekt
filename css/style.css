@@ -308,9 +308,6 @@ a.top-scroll:hover {
       font-size: 2.2rem;
       padding-bottom: 1.7rem;
    }
-   .footer {
-      background: url('img/10.jpg') no-repeat;
-   }
    .caption .btn-lg {
       padding: .7rem 1.2rem;
       font-size: 1rem;
@@ -329,9 +326,6 @@ a.top-scroll:hover {
    }
    .caption .btn-lg {
       padding: .6rem 1.1rem;
-   }
-   .footer {
-      background: url('img/10.jpg') no-repeat;
    }
    .top-scroll {
       display: none!important;
