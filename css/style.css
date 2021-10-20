@@ -42,25 +42,10 @@ html, body {
 .navbar-nav .nav-link:hover {
    color: #1EBBA3;
 }
-.custom-toggler-icon {
-   color: white;
-   font-size: 1.6rem;
-}
 .navbar.solid,
 .navbar.solid-toggle {
    background: rgba(0, 0, 0, .7)!important;
    transition: background-color 1s ease;
-}
-
-button:focus, a:focus, a.btn:focus {
-   outline: 0;
-   -webkit-appearance: none;
-   box-shadow: none;
-   transition: all .6s ease;
-}
-button, a, a.btn,
-.svg-inline--fa {
-   transition: all .6s ease;
 }
 
 .landing {
@@ -342,17 +327,8 @@ a.top-scroll:hover {
    .caption .btn-lg {
       padding: .6rem 1.1rem;
    }
-   #features h1 {
-      font-size: 2rem;
-   }
-   .fixed-dark {
-      background-image: url('10.png')
-   }
-   .fixed-light {
-      background-image: url('10.png')
-   }
    .footer {
-      background: url('10.png') no-repeat;
+      background: url('img/10.jpg') no-repeat;
    }
    .top-scroll {
       display: none!important;
