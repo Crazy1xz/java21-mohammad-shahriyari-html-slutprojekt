@@ -20,7 +20,7 @@ html, body {
 [class*="col-"] {
    padding: 1rem;
 }
-.navbar-logo img {
+.navbar-brand img {
    height: 5rem;
 }
 .navbar {
