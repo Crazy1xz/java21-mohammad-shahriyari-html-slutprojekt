@@ -99,6 +99,18 @@ html, body {
    will-change: transform;
    display: table;
 }
+.home-bg4 {
+   background-image: url('img/hill.jpeg');
+   position: fixed;
+   height: 100%;
+   width: 100%;
+   background-size: cover;
+   background-position: center center;
+   -webkit-transform: translateZ(0);
+   transform: translateZ(0);
+   will-change: transform;
+   display: table;
+}
 .v-header{
    height:100vh;
    display:flex;
