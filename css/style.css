@@ -63,7 +63,7 @@ html, body {
    top: 0;
    left: 0;
 }
-.home-inner {
+.home-bg {
    background-image: url('img/collage.png');
    position: fixed;
    height: 100%;
@@ -75,7 +75,7 @@ html, body {
    will-change: transform;
    display: table;
 }
-.home-inner2 {
+.home-bg2 {
    background-image: url('img/30.png');
    position: fixed;
    height: 100%;
@@ -87,7 +87,7 @@ html, body {
    will-change: transform;
    display: table;
 }
-.home-inner3 {
+.home-bg3 {
    background-image: url('img/p1.jpeg');
    position: fixed;
    height: 100%;
@@ -275,7 +275,7 @@ ul.social li a:hover {
 .form-group textarea::placeholder {
    color: #b2b5b8!important;
 }
-hr.socket {
+hr.bottom {
    border-top: .2rem solid #666b71;
    width: 100%;
 }
